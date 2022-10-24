@@ -6,7 +6,6 @@ import PNG_500_500 from '../../public/test/png/500x500.png';
 import PNG_1000_1000 from '../../public/test/png/1000x1000.png';
 import PNG_2000_2000 from '../../public/test/png/2000x2000.png';
 import PNG_4000_4000 from '../../public/test/png/4000x4000.png';
-import css from 'styled-jsx/css';
 
 //! 사용법 가드
 const Usage: NextPage = () => {
